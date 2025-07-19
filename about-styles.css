@@ -85,6 +85,21 @@ body {
     transform: translateY(-2px);
 }
 
+/* Body Styling */
+
+.text-small{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#about {
+    display:block;
+    width: 90vw;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px;
+}
+
 /* ===== FOOTER STYLING ===== */
 .footer {
     background: linear-gradient(135deg, var(--primary-color), #34495e);
