@@ -41,4 +41,4 @@ Dengan menggunakan media query untuk penyesuaian layout, ukuran teks, dan naviga
 
 1. **Clone repository** ini ke komputer kamu:
    ```bash
-   git clone https://github.com/whtrianto/website.git
+   https://github.com/whtrianto/website.git
